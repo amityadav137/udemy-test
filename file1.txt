@@ -1,1 +1,5 @@
-Hello world from git from git
+Hello world from git from git.
+
+Third commit test.
+
+git config --system --unset credential.helper
